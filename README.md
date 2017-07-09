@@ -1,4 +1,4 @@
-# git
-first
+crystalserver
+===============
 
-https://ci.appveyor.com/project/397821/git
+The Crystal Server is a server application written in C++ for the MMORPG Tibia. It is is based on the OpenTibia Server and The Forgotten Server projects.
